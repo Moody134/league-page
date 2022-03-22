@@ -105,9 +105,10 @@
        
     <hr />
     
-    <h2 class="sectionHeading" bind:this={one}>Section 1 Roster Breakdown</h2>
-    
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
+    <h2 class="sectionHeading" bind:this={one}>Administration</h2>
+    <h3 class="sectionHeading" bind:this={one}>Power of Commissioner</h2> 
+	
+    <h4 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
     
     <p>28 Total Players</p>
     
