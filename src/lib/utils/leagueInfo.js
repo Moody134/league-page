@@ -48,7 +48,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     // },
     // {
-    //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Alessandro Panetta",
        "location": "Sydenham, Sydney", // (optional)
        "bio": "As a freshman at Louisville in 2015, he played in 12 games and made eight starts. He completed 135-of-247 passes for 1,840 yards with 12 touchdowns and eight interceptions and ran for 960 yards and 11 rushing touchdowns.[19] He was named the MVP of the 2015 Music City Bowl after passing for 227 yards with two touchdowns and rushing for a Music City Bowl-record 226 yards and two touchdowns.",
